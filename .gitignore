@@ -1,0 +1,6 @@
+.DS_Store
+node_modules/
+dist/
+verification-shots/
+*.tsbuildinfo
+.game-build-files.json
